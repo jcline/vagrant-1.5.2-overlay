@@ -10,3 +10,9 @@ TODO:
  - Fix vagrant plugin installation. For some reason it won't install
    things when vagrant is installed this way.
  - More testing
+
+License:
+
+All of the ebuilds here are pulled from the portage tree, then modified.
+Whatever license those have is what they will have here. It's unclear to
+me what that license is, however.
