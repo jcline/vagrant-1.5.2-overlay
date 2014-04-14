@@ -1,0 +1,12 @@
+This is a portage overlay adding packages for vagrant 1.5.2.
+
+The shortlist of changes:
+ - Add ruby20 support
+   - Upgrade chef to 10.28.0
+   - Add ruby20 to a bunch of existing and new ebuilds
+ - Add a bunch of new packages that aren't curently in the tree
+
+TODO:
+ - Fix vagrant plugin installation. For some reason it won't install
+   things when vagrant is installed this way.
+ - More testing
