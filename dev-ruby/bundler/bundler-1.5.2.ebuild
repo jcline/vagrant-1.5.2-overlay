@@ -18,6 +18,6 @@ KEYWORDS="~amd64 ~x86"
 SUBVERSION="$(get_version_component_range 1-2)"
 
 ruby_add_rdepend "
-	>=dev-ruby/ronn-0.7.3
-	<dev-ruby/ronn-0.8
+	>=app-text/ronn-0.7.3
+	<app-text/ronn-0.8
 	>=dev-ruby/rspec-2.11"
