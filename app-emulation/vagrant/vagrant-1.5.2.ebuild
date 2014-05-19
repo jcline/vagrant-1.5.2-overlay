@@ -38,6 +38,7 @@ ruby_add_rdepend "
 	>=dev-ruby/log4r-1.1.9
 	<dev-ruby/log4r-1.1.11
 	>=dev-ruby/net-ssh-2.6.6
+	<dev-ruby/net-ssh-2.8
 	>=dev-ruby/net-scp-1.1
 	>=dev-ruby/rb-kqueue-0.2
 	>=dev-ruby/wdm-0.1
